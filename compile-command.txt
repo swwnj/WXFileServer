@@ -1,0 +1,1 @@
+--add-module=/<DIR>/nginx-gridfs/ --add-module=/<DIR>/nginx-upload/ --with-http_image_filter_module
